@@ -1,0 +1,16 @@
+.currency__header {
+    display: flex;
+    background-color: aquamarine;
+    padding: 10px;
+
+    p, h2 {
+        display: flex;
+        flex: 1 0 0;
+        justify-content: center;
+        align-items: center;
+    }
+
+    p {
+        font-size: 18px;
+    }
+}
